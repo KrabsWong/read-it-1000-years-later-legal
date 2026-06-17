@@ -38,3 +38,9 @@ Do not enter secrets that you do not want stored in Chrome extension local stora
 Settings, optional cached article data, and GitHub tokens remain on your device until you clear them, disconnect GitHub, remove the extension, or clear Chrome extension data.
 
 You can clear cached article data from the extension settings. You can also remove all extension data through Chrome's extension management and browser data controls.
+
+## Contact
+
+For privacy questions, open an issue at:
+
+[https://github.com/KrabsWong/read-it-1000-years-later/issues](https://github.com/KrabsWong/read-it-1000-years-later-legal/issues)
