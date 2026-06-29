@@ -6,7 +6,7 @@ The main extension source repository may be private, but the Chrome Web Store re
 
 ## Install
 
-<a href="https://chromewebstore.google.com/detail/read-it-1000-years-later/bpdledepfcohbimofppegfpdnadhabij"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYIiJ_MSB1dHMvNv42/x2SfGFKnc0yEZ0mMKOgL.svg" alt="Available in the Chrome Web Store" height="48"></a>
+<a href="https://chromewebstore.google.com/detail/read-it-1000-years-later/bpdledepfcohbimofppegfpdnadhabij"><img src="https://lh3.googleusercontent.com/jgTihkXiirhgrtJv9kv-cAZ9bABn5kPEats5HKucTf9ScHGPVwd0IE2lob9p5q_8a4_5zY2CTyh6kMrwk_1Qeowz85E=s120" alt="Available in the Chrome Web Store" height="48"> https://chromewebstore.google.com/detail/read-it-1000-years-later/bpdledepfcohbimofppegfpdnadhabij </a>
 
 > Requires Google Chrome latest stable version and a compatible LLM API key (OpenAI Chat Completions format).
 
