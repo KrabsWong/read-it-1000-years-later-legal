@@ -1,7 +1,7 @@
 {
-  "body": "This release adds OpenRouter provider settings and introduces a public changelog sync feature, along with various UI updates and workflow improvements.\n\n## Highlights\n\n- Added OpenRouter provider settings, enabling new AI model access options\n- New public update changelog sync for better visibility of release changes\n- Enhanced sidepanel UI with significant interface updates\n- Improved packaging workflow for extension releases",
-  "name": "Version 1.1.0",
-  "publishedAt": "2026-06-29T10:59:50.477Z",
-  "url": "https://github.com/KrabsWong/read-it-1000-years-later-legal/blob/main/CHANGELOG.md#version-110",
-  "version": "1.1.0"
+  "body": "This release redesigns the changelog display inside the extension, now rendering entries with Markdown for better readability. The changelog entry has also been moved into the settings header for easier access.\n\n## Highlights\n\n- Redesigned changelog with Markdown rendering for improved formatting\n- Moved changelog entry to the settings header area\n- Internal CI improvements for version synchronization",
+  "name": "Version 1.1.1",
+  "publishedAt": "2026-06-29T12:11:47.314Z",
+  "url": "https://github.com/KrabsWong/read-it-1000-years-later-legal/blob/main/CHANGELOG.md#version-111",
+  "version": "1.1.1"
 }
