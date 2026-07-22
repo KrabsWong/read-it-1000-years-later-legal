@@ -2,6 +2,18 @@
 
 Public release notes for the Chrome extension.
 
+<!-- read-it-1000-years-later:v1.1.2:start -->
+## Version 1.1.2
+
+Fixed an issue where the OpenRouter model catalog was not refreshing correctly, ensuring the latest models are always available in the side panel.
+
+## Highlights
+
+- Updated model catalog refresh logic for OpenRouter
+- Ensures new and updated models appear promptly
+- Improves reliability when selecting models in the side panel
+<!-- read-it-1000-years-later:v1.1.2:end -->
+
 <!-- read-it-1000-years-later:v1.1.1:start -->
 ## Version 1.1.1
 

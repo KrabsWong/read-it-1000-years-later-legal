@@ -1,7 +1,7 @@
 {
-  "body": "This release redesigns the changelog display inside the extension, now rendering entries with Markdown for better readability. The changelog entry has also been moved into the settings header for easier access.\n\n## Highlights\n\n- Redesigned changelog with Markdown rendering for improved formatting\n- Moved changelog entry to the settings header area\n- Internal CI improvements for version synchronization",
-  "name": "Version 1.1.1",
-  "publishedAt": "2026-06-29T12:11:47.314Z",
-  "url": "https://github.com/KrabsWong/read-it-1000-years-later-legal/blob/main/CHANGELOG.md#version-111",
-  "version": "1.1.1"
+  "body": "Fixed an issue where the OpenRouter model catalog was not refreshing correctly, ensuring the latest models are always available in the side panel.\n\n## Highlights\n\n- Updated model catalog refresh logic for OpenRouter\n- Ensures new and updated models appear promptly\n- Improves reliability when selecting models in the side panel",
+  "name": "Version 1.1.2",
+  "publishedAt": "2026-07-22T09:43:10.798Z",
+  "url": "https://github.com/KrabsWong/read-it-1000-years-later-legal/blob/main/CHANGELOG.md#version-112",
+  "version": "1.1.2"
 }
