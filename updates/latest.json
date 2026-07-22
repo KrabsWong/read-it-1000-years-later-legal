@@ -1,7 +1,7 @@
 {
-  "body": "Fixed an issue where the OpenRouter model catalog was not refreshing correctly, ensuring the latest models are always available in the side panel.\n\n## Highlights\n\n- Updated model catalog refresh logic for OpenRouter\n- Ensures new and updated models appear promptly\n- Improves reliability when selecting models in the side panel",
-  "name": "Version 1.1.2",
-  "publishedAt": "2026-07-22T09:43:10.798Z",
-  "url": "https://github.com/KrabsWong/read-it-1000-years-later-legal/blob/main/CHANGELOG.md#version-112",
-  "version": "1.1.2"
+  "body": "This release switches the npm registry to the official one, improving the reliability and consistency of dependency resolution during builds.\n\n## Highlights\n\n- Updated npm registry source for improved build consistency",
+  "name": "Version 1.1.4",
+  "publishedAt": "2026-07-22T11:31:22.507Z",
+  "url": "https://github.com/KrabsWong/read-it-1000-years-later-legal/blob/main/CHANGELOG.md#version-114",
+  "version": "1.1.4"
 }

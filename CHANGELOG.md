@@ -2,6 +2,16 @@
 
 Public release notes for the Chrome extension.
 
+<!-- read-it-1000-years-later:v1.1.4:start -->
+## Version 1.1.4
+
+This release switches the npm registry to the official one, improving the reliability and consistency of dependency resolution during builds.
+
+## Highlights
+
+- Updated npm registry source for improved build consistency
+<!-- read-it-1000-years-later:v1.1.4:end -->
+
 <!-- read-it-1000-years-later:v1.1.2:start -->
 ## Version 1.1.2
 
