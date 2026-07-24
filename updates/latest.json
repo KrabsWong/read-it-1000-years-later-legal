@@ -1,7 +1,7 @@
 {
-  "body": "This release switches the npm registry to the official one, improving the reliability and consistency of dependency resolution during builds.\n\n## Highlights\n\n- Updated npm registry source for improved build consistency",
-  "name": "Version 1.1.4",
-  "publishedAt": "2026-07-22T11:31:22.507Z",
-  "url": "https://github.com/KrabsWong/read-it-1000-years-later-legal/blob/main/CHANGELOG.md#version-114",
-  "version": "1.1.4"
+  "body": "This release adds the ability to archive original articles with atomic GitHub synchronization and improves the empty-state experience after using Deep Read.\n\n## Highlights\n\n- Archive original articles directly to a GitHub repository with atomic sync\n- Improved empty-state display in the Summary panel after performing a Deep Read\n- Enhanced background and content scripts for more reliable synchronization\n- Refreshed side panel interface with better handling of archived content",
+  "name": "Version 1.1.5",
+  "publishedAt": "2026-07-24T14:07:49.755Z",
+  "url": "https://github.com/KrabsWong/read-it-1000-years-later-legal/blob/main/CHANGELOG.md#version-115",
+  "version": "1.1.5"
 }

@@ -2,6 +2,19 @@
 
 Public release notes for the Chrome extension.
 
+<!-- read-it-1000-years-later:v1.1.5:start -->
+## Version 1.1.5
+
+This release adds the ability to archive original articles with atomic GitHub synchronization and improves the empty-state experience after using Deep Read.
+
+## Highlights
+
+- Archive original articles directly to a GitHub repository with atomic sync
+- Improved empty-state display in the Summary panel after performing a Deep Read
+- Enhanced background and content scripts for more reliable synchronization
+- Refreshed side panel interface with better handling of archived content
+<!-- read-it-1000-years-later:v1.1.5:end -->
+
 <!-- read-it-1000-years-later:v1.1.4:start -->
 ## Version 1.1.4
 
