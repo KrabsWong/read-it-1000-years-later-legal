@@ -1,7 +1,7 @@
 {
-  "body": "This release adds the ability to archive original articles with atomic GitHub synchronization and improves the empty-state experience after using Deep Read.\n\n## Highlights\n\n- Archive original articles directly to a GitHub repository with atomic sync\n- Improved empty-state display in the Summary panel after performing a Deep Read\n- Enhanced background and content scripts for more reliable synchronization\n- Refreshed side panel interface with better handling of archived content",
-  "name": "Version 1.1.5",
-  "publishedAt": "2026-07-24T14:07:49.755Z",
-  "url": "https://github.com/KrabsWong/read-it-1000-years-later-legal/blob/main/CHANGELOG.md#version-115",
-  "version": "1.1.5"
+  "body": "This release adds a new Tencent Token Plan for accessing token-based services and simplifies the reading workflow in the side panel.\n\n## Highlights\n\n- Added Tencent Token Plan support for users who need token-based authentication.\n- Simplified the side panel reading flow with a cleaner and more direct interface.\n- Updated user-facing text across all supported languages.\n- Streamlined background processing to make the extension faster and more reliable.",
+  "name": "Version 1.1.6",
+  "publishedAt": "2026-07-31T08:51:57.472Z",
+  "url": "https://github.com/KrabsWong/read-it-1000-years-later-legal/blob/main/CHANGELOG.md#version-116",
+  "version": "1.1.6"
 }

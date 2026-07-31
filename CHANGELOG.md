@@ -2,6 +2,19 @@
 
 Public release notes for the Chrome extension.
 
+<!-- read-it-1000-years-later:v1.1.6:start -->
+## Version 1.1.6
+
+This release adds a new Tencent Token Plan for accessing token-based services and simplifies the reading workflow in the side panel.
+
+## Highlights
+
+- Added Tencent Token Plan support for users who need token-based authentication.
+- Simplified the side panel reading flow with a cleaner and more direct interface.
+- Updated user-facing text across all supported languages.
+- Streamlined background processing to make the extension faster and more reliable.
+<!-- read-it-1000-years-later:v1.1.6:end -->
+
 <!-- read-it-1000-years-later:v1.1.5:start -->
 ## Version 1.1.5
 
