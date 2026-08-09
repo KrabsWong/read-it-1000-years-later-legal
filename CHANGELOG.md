@@ -2,6 +2,19 @@
 
 Public release notes for the Chrome extension.
 
+<!-- read-it-1000-years-later:v1.2.0:start -->
+## Version 1.2.0
+
+This release adds a new web research provider powered by DeepSeek Responses, improves localization and sidepanel behavior, and refactors the extension internals for cleaner, more maintainable code.
+
+## Highlights
+
+- Added DeepSeek Responses support for web research, with a new research mode and refined output handling.
+- Improved sidepanel state and web research supplements, making research results more stable and localized.
+- Refactored the sidepanel into focused, modular components, reducing complexity and improving performance.
+- Updated documentation and packaging for the extension and repository.
+<!-- read-it-1000-years-later:v1.2.0:end -->
+
 <!-- read-it-1000-years-later:v1.1.6:start -->
 ## Version 1.1.6
 
