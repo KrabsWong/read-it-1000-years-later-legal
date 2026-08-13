@@ -2,6 +2,17 @@
 
 Public release notes for the Chrome extension.
 
+<!-- read-it-1000-years-later:v1.2.1:start -->
+## Version 1.2.1
+
+This release adds a reading trail to summaries for easier navigation and updates the DeepSeek V4 integration to use the Responses API for more reliable performance.
+
+## Highlights
+
+- Added a reading trail to summary results, making it easier to locate the source text behind each summary point.
+- Switched DeepSeek V4 models to the Responses API for improved stability and accuracy.
+<!-- read-it-1000-years-later:v1.2.1:end -->
+
 <!-- read-it-1000-years-later:v1.2.0:start -->
 ## Version 1.2.0
 
