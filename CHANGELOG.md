@@ -2,6 +2,18 @@
 
 Public release notes for the Chrome extension.
 
+<!-- read-it-1000-years-later:v1.2.2:start -->
+## Version 1.2.2
+
+This release updates the Tencent Token Plan model options in the sidepanel to reflect the latest available models.
+
+## Highlights
+
+- Updated Tencent Token Plan model list in the sidepanel.
+- Improved model selection accuracy for Tencent Token Plan users.
+- Adjusted related documentation to match the new options.
+<!-- read-it-1000-years-later:v1.2.2:end -->
+
 <!-- read-it-1000-years-later:v1.2.1:start -->
 ## Version 1.2.1
 

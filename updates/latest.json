@@ -1,7 +1,7 @@
 {
-  "body": "This release adds a reading trail to summaries for easier navigation and updates the DeepSeek V4 integration to use the Responses API for more reliable performance.\n\n## Highlights\n\n- Added a reading trail to summary results, making it easier to locate the source text behind each summary point.\n- Switched DeepSeek V4 models to the Responses API for improved stability and accuracy.",
-  "name": "Version 1.2.1",
-  "publishedAt": "2026-08-13T12:29:54.265Z",
-  "url": "https://github.com/KrabsWong/read-it-1000-years-later-legal/blob/main/CHANGELOG.md#version-121",
-  "version": "1.2.1"
+  "body": "This release updates the Tencent Token Plan model options in the sidepanel to reflect the latest available models.\n\n## Highlights\n\n- Updated Tencent Token Plan model list in the sidepanel.\n- Improved model selection accuracy for Tencent Token Plan users.\n- Adjusted related documentation to match the new options.",
+  "name": "Version 1.2.2",
+  "publishedAt": "2026-08-24T02:33:51.479Z",
+  "url": "https://github.com/KrabsWong/read-it-1000-years-later-legal/blob/main/CHANGELOG.md#version-122",
+  "version": "1.2.2"
 }
