@@ -1,7 +1,7 @@
 {
-  "body": "This release updates the Tencent Token Plan model options in the sidepanel to reflect the latest available models.\n\n## Highlights\n\n- Updated Tencent Token Plan model list in the sidepanel.\n- Improved model selection accuracy for Tencent Token Plan users.\n- Adjusted related documentation to match the new options.",
-  "name": "Version 1.2.2",
-  "publishedAt": "2026-08-24T02:33:51.479Z",
-  "url": "https://github.com/KrabsWong/read-it-1000-years-later-legal/blob/main/CHANGELOG.md#version-122",
-  "version": "1.2.2"
+  "body": "This release introduces shareable reading images, so you can capture and share your reading summaries as visual snapshots.\n\n## Highlights\n\n- Generate shareable images from reading summaries.\n- Quickly share reading insights with others.",
+  "name": "Version 1.2.3",
+  "publishedAt": "2026-08-31T14:33:52.575Z",
+  "url": "https://github.com/KrabsWong/read-it-1000-years-later-legal/blob/main/CHANGELOG.md#version-123",
+  "version": "1.2.3"
 }

@@ -2,6 +2,17 @@
 
 Public release notes for the Chrome extension.
 
+<!-- read-it-1000-years-later:v1.2.3:start -->
+## Version 1.2.3
+
+This release introduces shareable reading images, so you can capture and share your reading summaries as visual snapshots.
+
+## Highlights
+
+- Generate shareable images from reading summaries.
+- Quickly share reading insights with others.
+<!-- read-it-1000-years-later:v1.2.3:end -->
+
 <!-- read-it-1000-years-later:v1.2.2:start -->
 ## Version 1.2.2
 
