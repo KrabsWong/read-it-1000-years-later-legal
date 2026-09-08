@@ -1,7 +1,7 @@
 {
-  "body": "This release fixes timing-related issues that could cause the side panel to read stale or inconsistent data, and adds support for DeepSeek Flash Vision.\n\n## Highlights\n\n- Fixed data race conditions that could lead to incorrect or unstable side panel state.\n- Added DeepSeek Flash Vision as a supported model option.\n- Made background state handling more reliable for streaming responses.\n- Added broader test coverage to prevent regressions in LLM integration.",
-  "name": "Version 1.2.4",
-  "publishedAt": "2026-09-08T11:48:35.824Z",
-  "url": "https://github.com/KrabsWong/read-it-1000-years-later-legal/blob/main/CHANGELOG.md#version-124",
-  "version": "1.2.4"
+  "body": "This release lets you export rendered reading panels that now include the article title, making it easier to reference the original source in your saved images and PDFs.\n\n## Highlights\n\n- Export rendered reading panels with the article title included.\n- Improved the accuracy of summary image generation.\n- Refined background tests to keep side panel behavior stable.\n- Streamlined the underlying export logic for clearer, more reliable results.",
+  "name": "Version 1.2.5",
+  "publishedAt": "2026-09-08T23:48:33.919Z",
+  "url": "https://github.com/KrabsWong/read-it-1000-years-later-legal/blob/main/CHANGELOG.md#version-125",
+  "version": "1.2.5"
 }

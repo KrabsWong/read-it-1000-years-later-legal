@@ -2,6 +2,19 @@
 
 Public release notes for the Chrome extension.
 
+<!-- read-it-1000-years-later:v1.2.5:start -->
+## Version 1.2.5
+
+This release lets you export rendered reading panels that now include the article title, making it easier to reference the original source in your saved images and PDFs.
+
+## Highlights
+
+- Export rendered reading panels with the article title included.
+- Improved the accuracy of summary image generation.
+- Refined background tests to keep side panel behavior stable.
+- Streamlined the underlying export logic for clearer, more reliable results.
+<!-- read-it-1000-years-later:v1.2.5:end -->
+
 <!-- read-it-1000-years-later:v1.2.4:start -->
 ## Version 1.2.4
 
