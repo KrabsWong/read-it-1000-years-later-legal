@@ -2,6 +2,19 @@
 
 Public release notes for the Chrome extension.
 
+<!-- read-it-1000-years-later:v1.2.4:start -->
+## Version 1.2.4
+
+This release fixes timing-related issues that could cause the side panel to read stale or inconsistent data, and adds support for DeepSeek Flash Vision.
+
+## Highlights
+
+- Fixed data race conditions that could lead to incorrect or unstable side panel state.
+- Added DeepSeek Flash Vision as a supported model option.
+- Made background state handling more reliable for streaming responses.
+- Added broader test coverage to prevent regressions in LLM integration.
+<!-- read-it-1000-years-later:v1.2.4:end -->
+
 <!-- read-it-1000-years-later:v1.2.3:start -->
 ## Version 1.2.3
 
